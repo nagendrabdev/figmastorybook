@@ -15,7 +15,7 @@ Text.story = {
   parameters: {
      design: {
         type: 'figma',
-        url: 'https://www.figma.com/file/stZxJk9DBPV3AOHeIUxxFL/Figma-Storybook?node-id=1%3A2'
+        url: 'https://www.figma.com/file/stZxJk9DBPV3AOHeIUxxFL/Figma-Storybook'
      }
   }
 };
